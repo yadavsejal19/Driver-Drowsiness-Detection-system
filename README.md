@@ -27,7 +27,7 @@ Welcome to Driver Drowsiness Detector 👋
 ## Documentation
 
 
-The Model Architecture
+##The Model Architecture
 The model we used is built with Keras using Convolutional Neural Networks (CNN). A convolutional neural network is a special type of deep neural network which performs extremely well for image classification purposes. A CNN basically consists of an input layer, an output layer and a hidden layer which can have multiple layers. A convolution operation is performed on these layers using a filter that performs 2D matrix multiplication on the layer and filter.
 
 The CNN model architecture consists of the following layers:
@@ -39,7 +39,7 @@ Fully connected layer; 128 nodes
 The final layer is also a fully connected layer with 2 nodes. A Relu activation function is used in all the layers except the output layer in which we used Softmax.
 
 
-Project Prerequisites
+##Project Prerequisites
 The requirement for this Python project is a webcam through which we will capture images. You need to have Python (3.6 version recommended) installed on your system, then using pip, you can install the necessary packages.
 
 OpenCV – pip install opencv-python (face and eye detection).
@@ -48,12 +48,12 @@ Keras – pip install keras (to build our classification model).
 Pygame – pip install pygame (to play alarm sound).
 
 
-**Steps for Performing Driver Drowsiness Detection**
-Step 1 – Take Image as Input from a Camera
-Step 2 – Detect Face in the Image and Create a Region of Interest (ROI)
-Step 3 – Detect the eyes from ROI and feed it to the classifier
-Step 4 – Classifier will Categorize whether Eyes are Open or Closed
-Step 5 – Calculate Score to Check whether Person is Drowsy
+##Steps for Performing Driver Drowsiness Detection**
+#### Heading level 1Step 1 – Take Image as Input from a Camera
+### Heading level 1Step 2 – Detect Face in the Image and Create a Region of Interest (ROI)
+### Heading level 1Step 3 – Detect the eyes from ROI and feed it to the classifier
+###Heading level 1Step 4 – Classifier will Categorize whether Eyes are Open or Closed
+#### Heading level 1Step 5 – Calculate Score to Check whether Person is Drowsy
 
 ## Output 
 
