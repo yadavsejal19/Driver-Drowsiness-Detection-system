@@ -49,11 +49,11 @@ Pygame – pip install pygame (to play alarm sound).
 
 
 ##Steps for Performing Driver Drowsiness Detection**
-#### Heading level 1Step 1 – Take Image as Input from a Camera
-### Heading level 1Step 2 – Detect Face in the Image and Create a Region of Interest (ROI)
-### Heading level 1Step 3 – Detect the eyes from ROI and feed it to the classifier
-###Heading level 1Step 4 – Classifier will Categorize whether Eyes are Open or Closed
-#### Heading level 1Step 5 – Calculate Score to Check whether Person is Drowsy
+### Step 1 – Take Image as Input from a Camera
+### Step 2 – Detect Face in the Image and Create a Region of Interest (ROI)
+### Step 3 – Detect the eyes from ROI and feed it to the classifier
+### Step 4 – Classifier will Categorize whether Eyes are Open or Closed
+### Step 5 – Calculate Score to Check whether Person is Drowsy
 
 ## Output 
 
