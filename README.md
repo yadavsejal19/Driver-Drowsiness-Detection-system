@@ -39,7 +39,7 @@ Fully connected layer; 128 nodes
 The final layer is also a fully connected layer with 2 nodes. A Relu activation function is used in all the layers except the output layer in which we used Softmax.
 
 
-##Project Prerequisites
+## Project Prerequisites
 The requirement for this Python project is a webcam through which we will capture images. You need to have Python (3.6 version recommended) installed on your system, then using pip, you can install the necessary packages.
 
 OpenCV – pip install opencv-python (face and eye detection).
@@ -48,7 +48,7 @@ Keras – pip install keras (to build our classification model).
 Pygame – pip install pygame (to play alarm sound).
 
 
-##Steps for Performing Driver Drowsiness Detection**
+## Steps for Performing Driver Drowsiness Detection**
 ### Step 1 – Take Image as Input from a Camera
 ### Step 2 – Detect Face in the Image and Create a Region of Interest (ROI)
 ### Step 3 – Detect the eyes from ROI and feed it to the classifier
