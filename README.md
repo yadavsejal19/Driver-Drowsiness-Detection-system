@@ -24,7 +24,7 @@ Welcome to Driver Drowsiness Detector 👋
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
-## Documentation
+# Documentation
 
 
 ##The Model Architecture
