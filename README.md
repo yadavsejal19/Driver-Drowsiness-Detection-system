@@ -48,7 +48,7 @@ Keras – pip install keras (to build our classification model).
 Pygame – pip install pygame (to play alarm sound).
 
 
-## Steps for Performing Driver Drowsiness Detection**
+## Steps for Performing Driver Drowsiness Detection
 ### Step 1 – Take Image as Input from a Camera
 ### Step 2 – Detect Face in the Image and Create a Region of Interest (ROI)
 ### Step 3 – Detect the eyes from ROI and feed it to the classifier
