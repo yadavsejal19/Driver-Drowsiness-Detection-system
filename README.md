@@ -58,7 +58,8 @@ Step 5 – Calculate Score to Check whether Person is Drowsy
 ## Output 
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![Capture](https://user-images.githubusercontent.com/49943890/167852860-595a2631-1a6a-42bc-a8b4-46fab9da6079.PNG)
+![low score](https://user-images.githubusercontent.com/49943890/167852880-803a6232-eb64-4e0f-ae29-3506e4c01bdb.PNG)
 
 ## Support
 
